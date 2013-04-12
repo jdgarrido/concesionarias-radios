@@ -95,6 +95,8 @@
             <div class="row" id="acerca">
               <h3>Acerca</h3>
               <p>Los datos que aquí se presentan fueron obtenidos desde el <a href="http://datos.gob.cl/datasets/ver/1926">Portal de Datos Públicos del Estado</a> con fecha 11 de Abril del 2013 y se entregan tal como vienen.</p>
+              <h3>Fork me</h3>
+              <p><a href="https://github.com/jdgarrido/concesionarias-radios">Deseas mejorar esto? lets go!!!</a></p>
             </div>
         </div>
       </div>
